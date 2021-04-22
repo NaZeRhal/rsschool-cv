@@ -1,4 +1,4 @@
-# 1. Maksim Rzhevutski
+# 1. Maksim Rzhevutski, Vitebsk, Belarus
 # 2. Contacts: tel: +375297194738, email: maxrzhe@gmail.com, zhanshi@yandex.ru, LinkedIn: www.linkedin.com/in/nazerhal
 # 3. Experienced metrology engineer with a passion for precision and computing. Now moving towards IT technology through Java and Android. Have a lot of enthusiasm and eager to work in IT-sphere.
 # 4. Java, Java Core, Kotlin, Android SDK, Room, Git
